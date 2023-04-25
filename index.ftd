@@ -1,7 +1,7 @@
 -- import: fastn
 -- import: fastn/processors as pr
--- import: fastn-stack.github.io/color-scheme-template/assets
--- import: fastn-stack.github.io/color-scheme-template/colors
+-- import: <user_name>.github.io/<repo_name>/assets
+-- import: <user_name>.github.io/<repo_name>/colors
 
 -- string figma-json:
 $processor$: pr.figma-cs-token
@@ -38,18 +38,19 @@ link: https://fastn.com/
 
 -- title-with-link: Github Link
 icon: $assets.files.static.link-icon.svg
-link-text: github.com/fastn-stack/color-scheme-template
-link: https://github.com/fastn-stack/color-scheme-template
+link-text: github.com/<user_name>/<repo_name>
+link: https://github.com/<user_name>/<repo_name>
 
+;; **** Create LICENSE file into GitHub repo and remove this line ****
 -- title-with-link: License Information
 icon: $assets.files.static.bsd-license-icon.svg
 link-text: BSD 3-Clause License
-link: https://github.com/fastn-stack/color-scheme-template/blob/main/LICENSE
+link: https://github.com/<user_name>/<repo_name>/blob/main/LICENSE
 
 -- title-with-link: Author Information
 icon: $assets.files.static.author-icon.svg
 link-text: Contributors
-link: https://github.com/fastn-stack/color-scheme-template/graphs/contributors
+link: https://github.com/<user_name>/<repo_name>/graphs/contributors
 
 -- title-with-link: Discord Channel 
 icon: $assets.files.static.discord-icon.svg
