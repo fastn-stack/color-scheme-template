@@ -4,8 +4,10 @@
 
 -- fastn.dependency: fifthtry.github.io/code-block
 -- fastn.dependency: fifthtry.github.io/dark-mode-switcher
+-- fastn.dependency: fifthtry.github.io/color-doc
 
 -- fastn.auto-import: fastn
 -- fastn.auto-import: fifthtry.github.io/code-block as cb
 -- fastn.auto-import: fifthtry.github.io/dark-mode-switcher as dms
+-- fastn.auto-import: fifthtry.github.io/color-doc as cd
 
