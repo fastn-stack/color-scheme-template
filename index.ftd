@@ -1,7 +1,7 @@
 -- import: fastn
 -- import: fastn/processors as pr
--- import: fifthtry.github.io/color-doc/assets
--- import: fifthtry.github.io/color-doc/colors
+-- import: <user_name>.github.io/<repo_name>/assets
+-- import: <user_name>.github.io/<repo_name>/colors
 
 -- string figma-json:
 $processor$: pr.figma-cs-token
@@ -38,18 +38,18 @@ link: https://fastn.com/
 
 -- title-with-link: Github Link
 icon: $assets.files.static.link-icon.svg
-link-text: github.com/FifthTry/color-doc
-link: https://github.com/FifthTry/color-doc
+link-text: github.com/<user_name>/<repo_name>
+link: https://github.com/<user_name>/<repo_name>
 
 -- title-with-link: License Information
 icon: $assets.files.static.bsd-license-icon.svg
 link-text: BSD 3-Clause License
-link: https://github.com/FifthTry/color-doc/blob/main/LICENSE
+link: https://github.com/<user_name>/<repo_name>/blob/main/LICENSE
 
 -- title-with-link: Author Information
 icon: $assets.files.static.author-icon.svg
 link-text: Contributors
-link: https://github.com/FifthTry/color-doc/graphs/contributors
+link: https://github.com/<user_name>/<repo_name>/graphs/contributors
 
 -- title-with-link: Discord Channel 
 icon: $assets.files.static.discord-icon.svg

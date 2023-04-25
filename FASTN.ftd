@@ -1,13 +1,11 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/color-doc
-zip: github.com/fifthtry/color-doc/archive/refs/heads/main.zip
+-- fastn.package: <user_name>.github.io/<repo_name>
 
 -- fastn.dependency: fifthtry.github.io/code-block
 -- fastn.dependency: fifthtry.github.io/dark-mode-switcher
 
 -- fastn.auto-import: fastn
--- fastn.auto-import: fifthtry.github.io/color-doc/FASTN/config
 -- fastn.auto-import: fifthtry.github.io/code-block as cb
 -- fastn.auto-import: fifthtry.github.io/dark-mode-switcher as dms
 
