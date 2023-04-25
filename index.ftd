@@ -41,6 +41,7 @@ icon: $assets.files.static.link-icon.svg
 link-text: github.com/<user_name>/<repo_name>
 link: https://github.com/<user_name>/<repo_name>
 
+;; **** Create LICENSE file into GitHub repo and remove this line ****
 -- title-with-link: License Information
 icon: $assets.files.static.bsd-license-icon.svg
 link-text: BSD 3-Clause License
