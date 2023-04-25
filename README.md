@@ -1,4 +1,4 @@
-#Adding warmth and energy to your designs with the fastn Color Schemes.
+# Adding warmth and energy to your designs with the fastn Color Schemes.
 
 The colors we choose for our designs can have a big impact on the mood and emotions they evoke. Whether you're designing a website, app, or any other project, the right color scheme can take your design to the next level. And for designs that want to convey warmth, energy, and a sense of adventure, the saturated sunset color scheme is the perfect choice.
 
