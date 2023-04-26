@@ -100,7 +100,7 @@ you’ll need to import it into one of the module.
 
 For example, let’s say you’re using the page component from `doc-site` package
 and want to apply the <repo_name> scheme package on top of it. You first create
-a new module, let’s say my-ds.ftd. Then you import <repo_name> package module
+a new module, let’s say my-ds.ftd. Then you import `<repo_name>` package module
 and then create a new component called page there. 
 
 Here’s what your my-ds.ftd module and FASTN.ftd import would look like:
