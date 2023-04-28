@@ -143,7 +143,7 @@ copyright: Copyright © 2023 - [FifthTry.com](https://www.fifthtry.com/)
 -- end: cp.components-pallete
 
 -- cd.color-scheme: 
-tagline: Adding warmth and energy to your designs with the `<add color scheme name here>` Color Scheme
+tagline: Adding warmth and energy to your designs with the `<repo_name>` color scheme
 
 -- cd.color-scheme.rightbar:
 
@@ -193,9 +193,9 @@ link: https://fastn.com/figma-to-fastn-cs/
 
 The colours we use in our designs can have a significant impact on the mood and
 feelings they inspire. The perfect colour palette may take your design to the
-next level, whether you're creating a website, app, or anything else. The `<add
-color scheme name here>` colour scheme is ideal for designs that aim to portray
-strength, warmth, and growth.
+next level, whether you're creating a website, app, or anything else. The
+`<repo_name>` colour scheme is ideal for designs that aim to portray strength,
+warmth, and growth.
 
 -- cb.code: Figma tokens json
 lang: json
@@ -219,10 +219,9 @@ custom colour scheme. To apply a colour scheme package on top of your package,
 you’ll need to import it into one of the module. 
 
 For example, let’s say you’re using the page component from `doc-site` package
-and want to apply the <add color scheme name here> scheme package on top of it.
-You first create a new module, let’s say my-ds.ftd. Then you import <add color
-scheme name here> package module and then create a new component called page
-there. 
+and want to apply the <repo_name> scheme package on top of it. You first create
+a new module, let’s say my-ds.ftd. Then you import <repo_name> package module
+and then create a new component called page there. 
 
 Here’s what your my-ds.ftd module and FASTN.ftd import would look like:
 
