@@ -305,7 +305,7 @@ dark: #7EACF1
 -- ftd.btb info-btb-:
 base: $info-base-
 text: $info-text-
-border: $info-base-
+border: $info-border-
 
 -- ftd.color warning-base-:
 light: #FDF7F1
