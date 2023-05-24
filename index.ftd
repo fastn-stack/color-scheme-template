@@ -235,7 +235,7 @@ lang: ftd
 download: my-ds.ftd
 
 \-- import: <user_name>.github.io/<repo_name> as my-cs
-\-- import: fifthtry.github.io/doc-site as ds
+\-- import: fastn-community.github.io/doc-site as ds
 
 \-- component page: 
 children wrapper:
