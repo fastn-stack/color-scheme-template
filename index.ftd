@@ -21,7 +21,7 @@ name: default-colors
 -- cd.package: THEME
 name: `<repo_name>`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `<repo_name>` Color Scheme
+subtitle: <repo_name> : Color Scheme
 colors: $colors-data
 types: $typo.types
 
