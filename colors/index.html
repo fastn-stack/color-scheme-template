@@ -563,10 +563,14 @@
 }
 },
 "ftd#device": "desktop",
+"ftd#empty": "",
 "ftd#follow-system-dark-mode": true,
 "ftd#font-code": "sans-serif",
 "ftd#font-copy": "sans-serif",
 "ftd#font-display": "sans-serif",
+"ftd#nbsp": "&nbsp;",
+"ftd#non-breaking-space": "&nbsp;",
+"ftd#space": " ",
 "ftd#system-dark-mode": false
 }
 </script>
@@ -640,13 +644,13 @@ a.value = !a.value
 
 
 function ftd__increment___main(a,args,data,id){
-return (a.value += 1);
+a.value = a.value+1
 }
 
 
 
 function ftd__increment_by___main(a,v,args,data,id){
-return (a.value += v);
+a.value = a.value+v
 }
 
 
@@ -682,6 +686,12 @@ return (ftd.copy_to_clipboard(a,args,data,id));
 
 
 function ftd__set_bool___main(a,v,args,data,id){
+a.value = v
+}
+
+
+
+function ftd__set_boolean___main(a,v,args,data,id){
 a.value = v
 }
 
